@@ -13,6 +13,7 @@
 ## Key results
 1. Receive the seed funding from the IAU.
 2. Submit a Simons Foundation proposal for TF1 activities.
+3. Draft an ICTP networks proposal.
 
 ## Objective: Increase awareness of our work in the astro community.
 
