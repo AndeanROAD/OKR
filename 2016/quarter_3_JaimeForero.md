@@ -16,7 +16,7 @@
 ## Key results
 1. Receive the IAU funding at Uniandes.
 2. Submit the Simons Foundation proposal for TF1 activities.
-3. Coordinate the preparation of an ICTP network proposal.
+3. Assemble a team of at least 2 people to write the ICTP network proposal.
 
 
 
