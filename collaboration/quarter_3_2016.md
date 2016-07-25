@@ -1,6 +1,6 @@
 ## Quarter 3 2016: July, August, September
 
-## Objective: Lead to completion common projects with high impact.
+## Objective: Lead to completion common projects with high development impact.
 
 ## Key results
 1. Setup the Andean ROAD 1st year evaluation.
