@@ -4,24 +4,20 @@
 
 ## Objectives
 
-1. Submit a Simons Foundation proposal for TF1 activities.
-2. Setup an Andean ROAD workshop in LARIM 2016.
-3. Setup the Andean ROAD 1st year evaluation.
-4. Develop the Andean ROAD 2nd year plan.
-5. Collaborate with the OAD on their Call for Proposals process.
-6. Develop an OKR framework for coordinators in the Andean ROAD.
+1. Increase the common funding level.
+2. Setup evaluation and planning cycles.
+3. Increase awareness of our work in the astro community.
 
 ## Key results 1. 
-
+1. Submit a Simons Foundation proposal for TF1 activities.
 
 ## Key results 2.
-
+1. Setup the Andean ROAD 1st year evaluation.
+2. Develop the Andean ROAD 2nd year plan.
+3. Have the coordinators using an OKR framework.
 
 ## Key results 3.
+1. Setup an Andean ROAD workshop in LARIM 2016.
+2. Collaborate with the OAD on their Call for Proposals process.
 
-## Key results 4.
-
-## Key results 5.
-
-## Key results 6.
 
