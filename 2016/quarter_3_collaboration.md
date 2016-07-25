@@ -6,7 +6,7 @@
 1. Deliver the Andean ROAD 1st year evaluation.
 2. Write the Andean ROAD 2nd year plan.
 3. Partner with good projects in the OAD Call for Proposals.
-4. Setup an OKR process for all 4 coordinators.
+4. Try out the OKR process with all 4 coordinators.
 
 ## Objective: Increase the common funding level.
 
