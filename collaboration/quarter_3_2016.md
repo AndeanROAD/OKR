@@ -10,6 +10,7 @@
 
 ## Key results 1. 
 1. Submit a Simons Foundation proposal for TF1 activities.
+2. Receive the seed funding from the IAU.
 
 ## Key results 2.
 1. Setup the Andean ROAD 1st year evaluation.
