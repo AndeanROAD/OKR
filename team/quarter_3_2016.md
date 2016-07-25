@@ -1,11 +1,8 @@
 ## Quarter 3 2016: July, August, September
 
-
 ## General Coordinator: Jaime Forero
 
-
 ## Objectives
-
 
 1. Submit a Simons Foundation proposal for TF1 activities.
 2. Setup an Andean ROAD workshop in LARIM 2016.
