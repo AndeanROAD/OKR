@@ -1,7 +1,5 @@
 ## Quarter 3 2016: July, August, September
 
-## General Coordinator: Jaime Forero
-
 ## Objectives
 
 1. Lead to completion common projects with high impact.
