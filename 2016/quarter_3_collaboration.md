@@ -3,9 +3,9 @@
 ## Objective: Lead to completion common projects with high development impact.
 
 ## Key results
-1. Setup the Andean ROAD 1st year evaluation.
-2. Develop the Andean ROAD 2nd year plan.
-3. Find interesting projects in the OAD Call for Proposals.
+1. Deliver the Andean ROAD 1st year evaluation.
+2. Write the Andean ROAD 2nd year plan.
+3. Partner with good projects in the OAD Call for Proposals.
 4. Setup an OKR process for all 4 coordinators.
 
 ## Objective: Increase the common funding level.
