@@ -4,7 +4,7 @@
 
 ## Objectives
 
-1. Lead to completion projects with high impact.
+1. Lead to completion common projects with high impact.
 2. Increase the common funding level.
 3. Increase awareness of our work in the astro community.
 
